@@ -45,4 +45,11 @@ terragistries -version
 #>>>> ohhhh and this is connected with https://github.com/pokusio/terragistries as storage !
 terragistries -auth-disabled -store github -github-owner-filter pokusio -github-topic-filter terragistries
 
+
+# ---
+# OKKK https://github.com/pokusio/terraform-snowflake-api-integration-with-geff-aws
+
+
+terragistries -auth-disabled -store github -github-owner-filter pokusio -github-topic-filter terraform-snowflake-api-integration-with-geff-aws
+
 ```
